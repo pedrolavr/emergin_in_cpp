@@ -10,7 +10,7 @@ int main(){
     // } while (this condition is true)
 
 
-    
+
     // The main difference between do-while loop x while loop is that in do-while, you you execute first the block code, and then you check
     // In other hand, in while loop you will check first, and then execute if it meets the condition
 
@@ -22,7 +22,7 @@ int main(){
     // We'll give the user 3 attempts
 
     do{
-        cout << "PIN: ";
+        cout << "PIN:  ";
         cin >> pin;
 
         if (pin != user00001PIN){
