@@ -19,7 +19,7 @@ int main(){
 
     for (int h = 0; h < height; h++){
         for (int w = 0; w < width; w++){
-            cout << setw(3) << symbol;
+            cout << setw(3) << symbol; // This is just for aesthetic look - Not necessarily functional
         }
         cout << endl;
     }
